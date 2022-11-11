@@ -1,0 +1,19 @@
+.SUMBITPROFILE{
+  text-align: center;
+  margin-top: 7vh;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+
+
+}
+.Loginform{
+  text-align: center;
+  background: palevioletred;
+  font-size: 16-x;
+  margin: 0;
+  padding: 10px;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+}
